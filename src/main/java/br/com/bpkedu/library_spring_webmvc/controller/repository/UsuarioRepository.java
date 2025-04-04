@@ -1,4 +1,4 @@
-package br.com.bpkedu.library_spring_webmvc.repository;
+package br.com.bpkedu.library_spring_webmvc.controller.repository;
 
 import br.com.bpkedu.library_spring_webmvc.domain.Usuario;
 import org.springframework.data.jpa.repository.JpaRepository;

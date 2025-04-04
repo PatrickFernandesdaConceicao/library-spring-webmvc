@@ -1,5 +1,6 @@
 package br.com.bpkedu.library_spring_webmvc.repository;
 
+import br.com.bpkedu.library_spring_webmvc.controller.repository.LivroRepository;
 import br.com.bpkedu.library_spring_webmvc.domain.Livro;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
